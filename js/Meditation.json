@@ -1,16 +1,28 @@
 {
   "ResponseData": [
     {
-      "headerName": "Telugu Hits Radio Telugu",
-      "musicUrl": "https://github.com/ramakrishnan27/SongsApp/raw/main/MSongs/S1.mp3",
+      "headerName": "Just Relax",
+      "musicUrl": "https://github.com/ramakrishnan27/SongsApp/raw/main/MSongs/just-relax-11157.mp3",
       "musicThumbUrl": "https://github.com/ramakrishnan27/SongsApp/raw/main/img/img2.jpg",
       "musicImageUrl": "https://github.com/ramakrishnan27/SongsApp/raw/main/img/img2.jpg"
     },
     {
-      "headerName": "Mirchi Love Radio Telugu",
-      "musicUrl": "https://github.com/ramakrishnan27/SongsApp/raw/main/MSongs/S2.mp3",
+      "headerName": "Melody Of Nature",
+      "musicUrl": "https://github.com/ramakrishnan27/SongsApp/raw/main/MSongs/melody-of-nature-main-6672.mp3",
       "musicThumbUrl": "https://github.com/ramakrishnan27/SongsApp/raw/main/img/img3.jpg",
       "musicImageUrl": "https://github.com/ramakrishnan27/SongsApp/raw/main/img/img3.jpg"
+    },
+    {
+      "headerName": "Melody Of Magic",
+      "musicUrl": "https://github.com/ramakrishnan27/SongsApp/raw/main/MSongs/mixkit-pan-pipes-magic-17.mp3",
+      "musicThumbUrl": "https://github.com/ramakrishnan27/SongsApp/raw/main/img/img3.jpg",
+      "musicImageUrl": "https://github.com/ramakrishnan27/SongsApp/raw/main/img/img3.jpg"
+    },
+     {
+      "headerName": "Valley Sunset",
+      "musicUrl": "https://github.com/ramakrishnan27/SongsApp/raw/main/MSongs/mixkit-valley-sunset-127.mp3",
+      "musicThumbUrl": "https://github.com/ramakrishnan27/SongsApp/raw/main/img/img2.jpg",
+      "musicImageUrl": "https://github.com/ramakrishnan27/SongsApp/raw/main/img/img2.jpg"
     }
 
   ]

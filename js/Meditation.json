@@ -2,28 +2,16 @@
   "ResponseData": [
     {
       "headerName": "Telugu Hits Radio Telugu",
-      "musicUrl": "https://github.com/ramakrishnan27/SongsApp/blob/main/MSongs/S1.mp3",
-      "musicThumbUrl": "https://wallpaperaccess.com/full/1251284.jpg",
-      "musicImageUrl": "https://github.com/ramakrishnan27/SongsApp/blob/main/img/img2.jpg"
+      "musicUrl": "https://github.com/ramakrishnan27/SongsApp/raw/main/MSongs/S1.mp3",
+      "musicThumbUrl": "https://github.com/ramakrishnan27/SongsApp/raw/main/img/img2.jpg",
+      "musicImageUrl": "https://github.com/ramakrishnan27/SongsApp/raw/main/img/img2.jpg"
     },
     {
       "headerName": "Mirchi Love Radio Telugu",
-      "musicUrl": "https://github.com/ramakrishnan27/SongsApp/blob/main/MSongs/S2.mp3",
-      "musicThumbUrl": "https://wallpapercave.com/wp/YuUSaax.jpg",
-      "musicImageUrl": "https://github.com/ramakrishnan27/SongsApp/blob/main/img/img3.jpg"
-    },
-//    {
-//      "headerName": "Hungama Telugu",
-//      "musicUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3",
-//      "musicThumbUrl": "https://wallpaperbat.com/img/75051-calm-background-calm-wallpaper-calming.jpg",
-//      "musicImageUrl": "https://wallpaperbat.com/img/75051-calm-background-calm-wallpaper-calming.jpg"
-//    },
-//{
-//      "headerName": "Telugu Hits Radio Telugu",
-//      "musicUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-7.mp3",
-//      "musicThumbUrl": "https://wallpaperaccess.com/full/1251284.jpg",
-//      "musicImageUrl": "https://wallpaperaccess.com/full/1251284.jpg"
-//    }
+      "musicUrl": "https://github.com/ramakrishnan27/SongsApp/raw/main/MSongs/S2.mp3",
+      "musicThumbUrl": "https://github.com/ramakrishnan27/SongsApp/raw/main/img/img3.jpg",
+      "musicImageUrl": "https://github.com/ramakrishnan27/SongsApp/raw/main/img/img3.jpg"
+    }
 
   ]
 }
